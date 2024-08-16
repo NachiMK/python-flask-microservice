@@ -163,6 +163,7 @@ cython_debug/
 
 # ignore non dev .env files
 !.env.example
+.env.*
 
 # ignore my notes
 _my_notes/
