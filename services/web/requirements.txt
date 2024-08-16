@@ -1,0 +1,8 @@
+Flask
+gunicorn
+jsonify
+flask_session
+psycopg2-binary
+flask-socketio
+Flask-SQLAlchemy
+
